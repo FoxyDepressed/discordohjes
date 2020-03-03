@@ -9,6 +9,8 @@
   },
   "author": "Foxy",
   "license": "ISC",
+  "engines": {
+    "node": "12.13.0",
   "dependencies": {
     "ascii-table": "0.0.9",
     "beautify": "0.0.8",
@@ -24,4 +26,5 @@
     "sql": "^0.78.0",
     "sqlite": "^3.0.3"
   }
+}
 }
